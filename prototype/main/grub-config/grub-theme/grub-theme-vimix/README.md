@@ -29,6 +29,7 @@ GRUB_THEME="/boot/grub/themes/grub-theme-monterey-remix/theme.txt"
 | Arch Package |
 | --- |
 | [grub](https://archlinux.org/packages/core/x86_64/grub/) |
+| [grub-theme-vimix](https://archlinux.org/packages/extra/any/grub-theme-vimix/) |
 
 
 
