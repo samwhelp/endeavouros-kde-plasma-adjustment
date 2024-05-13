@@ -11,10 +11,7 @@
 ## ## Package / Grub
 ##
 
-#grub2
-
-grub-common
-#grub-pc
+grub
 
 
 
@@ -23,14 +20,4 @@ grub-common
 ## ## Package / Grub-Theme
 ##
 
-
-#lubuntu-grub-theme
-
-
-#grub-theme-starfield
-#grub-theme-breeze
-
-
-#grub2-themes-edubuntu
-#grub2-themes-ubuntu-mate
-#grub2-themes-ubuntustudio
+#grub-theme-vimix
