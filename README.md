@@ -2,6 +2,11 @@
 
 # endeavouros-kde-plasma-adjustment
 
+
+
+
+## Home
+
 | Link | GitHub |
 | ---- | ------ |
 | [EndeavourOS Kde Plasma Adjustment](https://samwhelp.github.io/endeavouros-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment) |
@@ -11,17 +16,18 @@
 
 ## Subject
 
-* [Adjustment](#adjustment)
+* [Scripts](#scripts)
 * [Link](#link)
 
 
 
 
-## Adjustment
+## Scripts
 
-| Adjustment |
-| ---------- |
-| [endeavouros-kde-plasma-adjustment](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main) |
+| Scripts |
+| ------- |
+| [EndeavourOS Kde Plasma Config](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
+| Tool Config](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main/tool-config) |
 
 
 
