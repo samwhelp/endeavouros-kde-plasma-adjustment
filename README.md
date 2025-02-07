@@ -11,17 +11,18 @@
 
 ## Subject
 
-* [Adjustment](#adjustment)
+* [Scripts](#scripts)
 * [Link](#link)
 
 
 
 
-## Adjustment
+## Scripts
 
-| Adjustment |
-| ---------- |
-| [endeavouros-kde-plasma-adjustment](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main) |
+| Scripts |
+| ------- |
+| [EndeavourOS Kde Plasma Config](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
+| Tool Config](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main/tool-config) |
 
 
 
