@@ -12,6 +12,9 @@
 | [EndeavourOS Kde Plasma Adjustment](https://samwhelp.github.io/endeavouros-kde-plasma-adjustment/) | [GitHub](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment) |
 
 
+> [Keybind Cheatsheet](https://samwhelp.github.io/endeavouros-kde-plasma-adjustment/read/cheatsheet/keybind.html)
+
+
 
 
 ## Subject
