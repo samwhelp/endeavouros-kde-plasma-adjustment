@@ -31,7 +31,7 @@
 
 | Script |
 | ------ |
-| [EndeavourOS Kde Plasma Config](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main/kde-config) |
+| [EndeavourOS Kde Plasma Config](https://github.com/samwhelp/endeavouros-kde-plasma-adjustment/tree/main/prototype/main/kde-config/locale/en_us/Main) |
 | [Tool Config](https://github.com/samwhelp/endeavouros-adjustment/tree/main/prototype/main/tool-config/part) |
 
 
