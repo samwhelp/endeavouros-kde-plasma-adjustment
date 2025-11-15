@@ -7,9 +7,16 @@
 
 ## Config File Path
 
-| Config File Path |
-| --- |
+| Keybind |
+| ------- |
 | [~/.config/kglobalshortcutsrc](./asset/overlay/etc/skel/.config/kglobalshortcutsrc) |
+
+
+| Layout |
+| ------ |
+| [~/.config/kactivitymanagerdrc](./asset/overlay/etc/skel/.config/kactivitymanagerdrc) |
+| [~/.config/plasma-org.kde.plasma.desktop-appletsrc](./asset/overlay/etc/skel/.config/plasma-org.kde.plasma.desktop-appletsrc) |
+| [~/.config/plasmashellrc](./asset/overlay/etc/skel/.config/plasmashellrc) |
 
 
 
